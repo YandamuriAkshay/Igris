@@ -30,15 +30,15 @@
     }
   ],
   "env": {
-    "REACT_APP_API_URL": "@api_url",
-    "REACT_APP_API_KEY": "@api_key",
-    "REACT_APP_AUTH_DOMAIN": "@auth_domain",
-    "REACT_APP_AUTH_CLIENT_ID": "@auth_client_id",
-    "REACT_APP_ENABLE_AI_FEATURES": "@enable_ai_features",
-    "REACT_APP_ENABLE_NOTIFICATIONS": "@enable_notifications",
-    "REACT_APP_GA_TRACKING_ID": "@ga_tracking_id",
-    "REACT_APP_CHAT_API_KEY": "@chat_api_key",
-    "REACT_APP_STORAGE_BUCKET": "@storage_bucket"
+    "REACT_APP_API_URL": "https://igris-api.vercel.app",
+    "REACT_APP_API_KEY": "temp_api_key_for_development",
+    "REACT_APP_AUTH_DOMAIN": "igris-auth.vercel.app",
+    "REACT_APP_AUTH_CLIENT_ID": "igris_client_id",
+    "REACT_APP_ENABLE_AI_FEATURES": "true",
+    "REACT_APP_ENABLE_NOTIFICATIONS": "true",
+    "REACT_APP_GA_TRACKING_ID": "G-XXXXXXXXXX",
+    "REACT_APP_CHAT_API_KEY": "temp_chat_api_key",
+    "REACT_APP_STORAGE_BUCKET": "igris-storage"
   },
   "github": {
     "enabled": true,
