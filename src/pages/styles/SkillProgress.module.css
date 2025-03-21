@@ -1,0 +1,7 @@
+.progressBar {
+  @apply bg-blue-600 h-2 rounded-full transition-all duration-300;
+}
+
+.progressBarFill {
+  @apply bg-blue-600 h-2 rounded-full transition-all duration-300;
+} 
