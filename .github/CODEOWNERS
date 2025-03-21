@@ -1,0 +1,15 @@
+# These owners will be the default owners for everything in the repo
+* @YandamuriAkshay
+
+# Deployment configuration files
+vercel.json @YandamuriAkshay
+.github/workflows/ @YandamuriAkshay
+
+# Security-sensitive files
+.env.* @YandamuriAkshay
+src/config/ @YandamuriAkshay
+
+# Core application files
+src/pages/ @YandamuriAkshay
+src/components/ @YandamuriAkshay
+src/services/ @YandamuriAkshay 
